@@ -25,10 +25,15 @@ This project presents a dynamic and interactive Excel dashboard that provides de
 📊 Dashboard Preview
 
 📂 Files Included
+
 📌 Virat-Kohli-Cricket-Dashboard.xlsx → Main Excel dashboard
+
 📌 Dashboard-Screenshot.png → Dashboard preview image
+
 📌 Dataset.csv → Raw data used for analysis
+
 📌 README.md → Project documentation
+
 
 
 
