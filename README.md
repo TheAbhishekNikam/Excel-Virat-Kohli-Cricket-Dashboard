@@ -46,19 +46,10 @@ This project presents a dynamic and interactive Excel dashboard that provides de
 - Demonstrates Data Analysis & Visualization expertise
 - Replicates Business Intelligence (BI) Dashboarding concepts
 - Engages with a real-world dataset, making insights accessible
-
-## Contribution
-If you find this project interesting, feel free to contribute.
+- 
 
 ## Created By
 **ABHISHEK V NIKAM | Year: 2025**
 
 
-
-
-
-📢 If you find this project interesting, give it a ⭐ and feel free to contribute!
-
-
-💡 Created by ABHISHEK V NIKAM | 📅 Year: 2025
 
